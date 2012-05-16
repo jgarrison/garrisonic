@@ -2,5 +2,5 @@ This was created on the dev branch
 
 line 3 zipper
 line 4 dev
-
+line 5 dev line 6 already committed on master
 line 6 master
